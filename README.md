@@ -36,3 +36,5 @@ pip install -r requirements.txt
 
 ## 5. Demo 
 ![alt text](image.png)
+
+*Thanks
